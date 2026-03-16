@@ -1,0 +1,6 @@
+# Python dependencies for plaxis-automation
+# plxscripting is bundled with PLAXIS 2D — no pip install needed.
+
+pandas>=2.0
+openpyxl>=3.1
+xlsxwriter>=3.1
